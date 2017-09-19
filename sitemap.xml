@@ -4,29 +4,28 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
 <url>
   <loc>https://esalvager.github.io/</loc>
-  <lastmod>2017-09-16T18:16:27+00:00</lastmod>
+  <lastmod>2017-09-19T18:52:31+00:00</lastmod>
   <changefreq>hourly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://esalvager.github.io/donate/</loc>
-  <lastmod>2017-09-16T18:16:27+00:00</lastmod>
+  <lastmod>2017-09-19T18:52:31+00:00</lastmod>
   <changefreq>hourly</changefreq>
-  <priority>1.00</priority>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://esalvager.github.io/faq/</loc>
-  <lastmod>2017-09-16T18:16:27+00:00</lastmod>
+  <loc>https://esalvager.github.io/team/</loc>
+  <lastmod>2017-09-19T18:52:31+00:00</lastmod>
   <changefreq>hourly</changefreq>
-  <priority>1.00</priority>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://esalvager.github.io/contact/</loc>
-  <lastmod>2017-09-16T18:16:27+00:00</lastmod>
+  <lastmod>2017-09-19T18:52:31+00:00</lastmod>
   <changefreq>hourly</changefreq>
-  <priority>1.00</priority>
+  <priority>0.80</priority>
 </url>
 </urlset>
